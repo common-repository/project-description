@@ -1,0 +1,10 @@
+aside#project-description { margin: 0 0 1.625em 0; padding: 1.125em 1.625em 1.625em; background: #FCFCFC; border: 1px solid #E5E5E5; }
+aside#project-description > h2 { font-size: 1.125em; font-weight: bold; margin: 0 0 .8125em; }
+aside#project-description > h2 > a { float: right; line-height: 2.6em; font-size: 0.625em; }
+aside#project-description > * { font-size: 0.8em; }
+aside#project-description .content figure { margin: 1.125em 0 0; padding: 6px; background: #EEE; border: 0 solid #DDD; }
+aside#project-description .content figure img { max-width: 100%; height: auto; }
+aside#project-description .content figcaption { text-align: center; font: 0.9em/2em Georgia, serif; color: #666; }
+aside#project-description .other-posts { margin-top: 1.625em; }
+aside#project-description .other-posts p { margin-bottom: 0.625em; }
+aside#project-description .other-posts-list { margin-bottom: 0; }
